@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.2.4",
-        "adldap/adldap": "v4.0-stable"
+        "riper/adldap": "dev-master"
     },
     "autoload": {
         "psr-0" : {
