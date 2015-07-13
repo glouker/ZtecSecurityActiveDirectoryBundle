@@ -12,9 +12,8 @@
         }
     ],
     "require": {
-        "php": ">=5.2.4",
-        "glouker/adldap": "v4.0-stable"
-    },
+        "php": ">=5.2.4"
+		},
     "autoload": {
         "psr-0" : {
             "Ztec\\Security\\ActiveDirectoryBundle" : ""
