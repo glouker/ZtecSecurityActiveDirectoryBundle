@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.2.4",
-        "adldap/adldap": "dev-master"
+        "glouker/adldap": "v4.0-stable"
     },
     "autoload": {
         "psr-0" : {
